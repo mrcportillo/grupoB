@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "capturaLaEscultura"
+    },
+    "capturaLaEscultura": {
+      "applicationId": "3DbnBfFyxWVKXkBgj7TSiIWo8kV8RAovKmTfEKTR"
+    }
+  }
+}
