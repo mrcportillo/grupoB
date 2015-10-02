@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/manuel/AndroidStudioProjects/Mobile/ParseStarterProject/libs/ParseFacebookUtilsV4-1.10.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d8af02f154ae32c7a97ae56fcd119cc174f87707">
+        <dex dex="/home/manuel/AndroidStudioProjects/Mobile/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.10.2-b6a17f82333a34daccae57297bcc602667a573f9.jar" />
+    </item>
+
+</items>

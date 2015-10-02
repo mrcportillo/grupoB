@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">3DbnBfFyxWVKXkBgj7TSiIWo8kV8RAovKmTfEKTR</string>
+    <string name="parse_client_key">T4fqi6r3fHJGJWxpp4C1QNoaF8etCr2wZcmN049B</string>
+
+    <string name="app_name">Parse Starter Project</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="LoginBtn">Login</string>
+    <string name="SignupBtn">Sign Up</string>
+    <string name="facebook_app_id">1625741751014184</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="parse_application_id">3DbnBfFyxWVKXkBgj7TSiIWo8kV8RAovKmTfEKTR</string>
+    <string name="title_activity_login_signup">LoginSignupActivity</string>
+    <string name="prompt_password">prompt_password</string>
+    <string name="action_sign_in_short">action_sign_in_short</string>
+    <string name="contraseña">contraseña</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="LogoutBtn">LogoutBtn</string>
+    <string name="Welcome">Welcome</string>
+</resources>
