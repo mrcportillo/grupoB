@@ -45,4 +45,4 @@
         android:layout_below="@+id/login"
         android:text="@string/SignupBtn" />
 
-</RelativeLayout><!-- From: file:/home/manuel/AndroidStudioProjects/Mobile/ParseStarterProject/src/main/res/layout/activity_login_signup.xml -->
+</RelativeLayout><!-- From: file:/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/src/main/res/layout/activity_login_signup.xml -->

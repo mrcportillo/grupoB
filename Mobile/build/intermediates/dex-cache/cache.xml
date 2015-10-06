@@ -2,11 +2,60 @@
 <items version="2" >
 
     <item
-        jar="/home/manuel/AndroidStudioProjects/Mobile/ParseStarterProject/libs/ParseFacebookUtilsV4-1.10.2.jar"
+        jar="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-16d3d85c94d8cbb41f4149d5683b63ea6e442d74.jar" />
+    </item>
+    <item
+        jar="/home/manuel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-83134745db2b0c0a683a4720933749b472dad1ce.jar" />
+    </item>
+    <item
+        jar="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-ce9324c945c8f6952cfe81e81c0bfbe70b1a4c55.jar" />
+    </item>
+    <item
+        jar="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-309d6e64f17722ee8934a54fdc58cc82e15399f6.jar" />
+    </item>
+    <item
+        jar="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-d98fe01c91b36e9575b011ab87441c5e10af9046.jar" />
+    </item>
+    <item
+        jar="/home/manuel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-502c9a7fc0380241024ce40b57b5c69e4e42110b.jar" />
+    </item>
+    <item
+        jar="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/libs/ParseFacebookUtilsV4-1.10.2.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="d8af02f154ae32c7a97ae56fcd119cc174f87707">
-        <dex dex="/home/manuel/AndroidStudioProjects/Mobile/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.10.2-b6a17f82333a34daccae57297bcc602667a573f9.jar" />
+        <dex dex="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.10.2-b4076cc444f8e6c3adc0861a4a7cd901b0d0d098.jar" />
+    </item>
+    <item
+        jar="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/libs/Parse-1.10.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a859414011ce2c18187acc83319688e6bd340635">
+        <dex dex="/home/manuel/AndroidStudioProjects/grupoB/Mobile/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.10.2-d4c518fcf40182b34818872fbb44b4e4ae175671.jar" />
     </item>
 
 </items>
